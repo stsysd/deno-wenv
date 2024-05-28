@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@classopt": "https://deno.land/x/classopt@v0.2.0/mod.ts",
+    "@david/dax": "jsr:@david/dax@^0.41.0",
+    "@std/dotenv": "jsr:@std/dotenv@^0.224.0"
+  }
+}

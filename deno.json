@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "install": "deno install -f --allow-read --allow-env --allow-run --import-map ./import.json --name wenv ./main.ts"
+  }
+}
